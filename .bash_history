@@ -99,3 +99,4 @@ git config user.email"
 git config "user.email"
 
 git commit -m "first commit"
+git init'
