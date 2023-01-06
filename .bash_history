@@ -72,3 +72,30 @@ chmod 400 ansible_00.pem
 chmod 400 ansible_0.pem
 sudo install git
 sudo apt install git
+git
+sudo apt install git
+git --version
+git
+git --version
+nano test.sh
+git status
+git config --global init.defaultBranch main
+git clone https://git-codecommit.us-east-2.amazonaws.com/v1/repos/MyDemoRepo my-demo-repo
+git init
+git status
+git add.
+git add.test.sh
+git add
+git add .
+git status
+git commit =m "this is my first commit"
+git commit -m "this is my first commit"
+git config --global user.email "sravanthi.tangutur@hcl.com"
+git config --global user.name "sravanthitangutur"
+git config user.name
+git config user.email
+git config user.email"
+
+git config "user.email"
+
+git commit -m "first commit"
