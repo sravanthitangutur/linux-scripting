@@ -100,3 +100,107 @@ git config "user.email"
 
 git commit -m "first commit"
 git init'
+git init
+git status
+gitadd.
+git add .
+git status
+git commit -m "first commit"
+git config --global user.email "student4@3883-2800-4932"
+git config --global user.name "sravanthi tangutur"
+git config user.email
+git config user.name
+git commit - "1st commit"
+git commit -m "1st commit"
+git remote add origin https://github.com/Sravanthitangutur/linuxscript.git
+git push -u origin main
+git init
+ls
+nano test3.sh
+git init
+git status
+git add .
+git status
+git commit -m "commit"
+git config --global user.email "sravanthi.tangutur@hcl.com
+"
+git confi --global user.name "sravnthitangutur"
+git config --global user.name "sravnthitangutur"
+git commit -m "first commit"
+git remote add origin https://github.com/Sravanthitangutur/linuxscript.git
+sudo apt-get remove got
+sudo apt-get remove git
+git init
+git status
+git add .
+git status
+git commit -m "this is my first commit"
+git remote add origin https://github.com/Sravanthitangutur/jenkins.git
+git push -u origin main
+git commit -m "this is my first commit"
+git push -u origin main
+sudo apt uninstall git
+sudo apt-get remove git
+sudo apt install git
+nano test2.sh
+git init
+git status
+git add .
+git status
+git commit -m "first commit"
+git config --global user.email "sravanthi.tangutur@hcl.com"
+git config --global user.name "sravanthi.tangutur"
+git config --global user.name
+git config --global user.mail
+git config --global user.email
+git commit -m "first commit"
+git remote add origin https://github.com/Sravanthitangutur/jenkins.git
+git push -u origin main
+sudo apt git-update
+sud apt update
+sudo apt-get update
+git push -u origin main
+sudo apt git
+sudo apt install git
+git config --list
+git config --local -l
+git config --system -l
+nano test.sh
+chmod +test.sh
+chmod +xtest.sh
+chmod+xtest.sh
+git init
+nano variable.sh
+chmod +x variable.sh
+./variable.sh
+pwd
+nano comments.sh
+chmod +x comments.sh
+./comments.sh
+chmod +x comments.sh
+nano comments.sh
+chmod +x comments.sh
+./comments.sh
+nano comments.sh
+./comments.sh
+nano comments.sh
+./comments.sh
+nano multiple.sh
+chmod +x mutliple.sh
+chmod +x multiple.sh
+./multiple.sh
+nano multiple.sh
+./multiple.sh
+sudo apt install github
+yum install git -y
+sudo apt install git
+git --version
+git init
+git status
+git add comments.sh
+git commit -m " Commit Message"  
+git commit -a 
+git status 
+git remote add origin https://github.com/sravanthitangutur/linux-scripting.git
+git remote remove origin https://github.com/sravanthitangutur/linux-scripting.git
+git push -u origin main
